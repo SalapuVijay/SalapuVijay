@@ -135,7 +135,7 @@ class SalapuVijay:
 
 <div align="center">
 
-[![SalapuVijay Leetcode Stats](https://leetcard.jacoblin.cool/SalapuVijay?theme=radical&font=Fira%20Code&ext=activity)](https://leetcode.com/SalapuVijay/)
+[![SalapuVijay Leetcode Stats](https://leetcard.jacoblin.cool/2EylzqhYHH?theme=radical&font=Fira%20Code&ext=activity)](https://leetcode.com/u/2EylzqhYHH/)
 
 </div>
 
