@@ -119,13 +119,23 @@ class SalapuVijay:
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight" alt="Vijay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalapuVijay&theme=tokyonight" alt="Vijay's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight" alt="Vijay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=SalapuVijay&theme=tokyonight" alt="Vijay's Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalapuVijay&theme=tokyonight" alt="Vijay's Streak Stats" />
 </p>
+
+</div>
+
+---
+
+## 🏆 LeetCode Stats
+
+<div align="center">
+
+[![SalapuVijay Leetcode Stats](https://leetcard.jacoblin.cool/SalapuVijay?theme=radical&font=Fira%20Code&ext=activity)](https://leetcode.com/SalapuVijay/)
 
 </div>
 
