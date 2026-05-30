@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=bf5af2&center=true&vCenter=true&width=750&lines=🤖+AI%2FML+Enthusiast;💬+NLP+Developer;🛸+Aspiring+Software+Engineer;🐍+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=bf5af2&center=true&vCenter=true&width=750&lines=🤖+AI%2FML+Enthusiast%3B💬+NLP+Developer%3B🛸+Aspiring+Software+Engineer%3B🐍+Python+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -72,62 +72,42 @@ class SalapuVijay:
 
 ---
 
-### 🎨 Tech Stack & Tools (Emoji Edition!)
+### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>🐍 Programming</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>🤖 AI/ML & NLP</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>🌐 Web & DB</strong>
-    </td>
-    <td align="center" width="25%">
-      <strong>🛠️ Tools & Colab</strong>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>🐍 <b>Python</b></li>
-        <li>🛸 <b>C++</b></li>
-        <li>⚙️ <b>C</b></li>
-        <li>☕ <b>Java</b></li>
-        <li>💾 <b>SQL</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>🧠 <b>BERT</b></li>
-        <li>🪶 <b>Transformers</b></li>
-        <li>🔬 <b>Scikit-Learn</b></li>
-        <li>🐼 <b>Pandas</b></li>
-        <li>🔢 <b>NumPy</b></li>
-        <li>💬 <b>NLTK</b></li>
-        <li>🎈 <b>TextBlob</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>🧪 <b>Flask</b></li>
-        <li>🐬 <b>MySQL</b></li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>⚡ <b>Streamlit</b></li>
-        <li>🔀 <b>Git</b></li>
-        <li>🐙 <b>GitHub</b></li>
-        <li>💻 <b>VS Code</b></li>
-        <li>📒 <b>Google Colab</b></li>
-        <li>📓 <b>Jupyter</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <strong>💻 Languages & Frameworks</strong><br><br>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+<p align="center">
+  <strong>🤖 AI, Machine Learning & NLP</strong><br><br>
+  <img src="https://img.shields.io/badge/Google%20BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/nltk-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+  <img src="https://img.shields.io/badge/textblob-E91E63?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" />
+</p>
+
+<p align="center">
+  <strong>🗄️ Databases & Data Storage</strong><br><br>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="center">
+  <strong>⚙️ Tools & Platforms</strong><br><br>
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 ---
 
@@ -140,16 +120,15 @@ class SalapuVijay:
 
 ---
 
-### 📊 GitHub Live Performance Dashboard
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&border_color=312e81&hide_border=false" alt="Vijay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalapuVijay&theme=tokyonight&background=0b0f19&title=a855f7&currStreakLabel=a855f7&currStreakNum=ffffff&sideNums=cbd5e1&sideLabels=cbd5e1&dates=94a3b8&ring=a855f7&fire=a855f7&stroke=312e81" alt="Vijay's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight" alt="Vijay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalapuVijay&theme=tokyonight" alt="Vijay's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalapuVijay&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&border_color=312e81&hide_border=false" alt="Vijay's Top Languages" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalapuVijay&bg_color=0b0f19&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=false&custom_title=Vijay's%20Contribution%20Graph" alt="Vijay's Activity Graph" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalapuVijay&theme=tokyonight" alt="Vijay's Streak Stats" />
 </p>
 
 ---
