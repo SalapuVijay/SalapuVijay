@@ -1,14 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Salapu Vijay
+# 👨‍💻 Salapu Lakshmi Venkata Vijay
+
+<img src="./banner.png" width="100%" alt="Salapu Lakshmi Venkata Vijay Banner" style="border-radius: 12px; border: 3px solid #bf5af2; box-shadow: 0 0 25px rgba(191, 90, 242, 0.4);" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI/ML%20Enthusiast&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20NLP%20%26%20Software%20Systems%20🤖&descAlignY=55&descSize=20">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI/ML%20Enthusiast&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20NLP%20%26%20Software%20Systems%20🤖&descAlignY=55&descSize=20">
-</picture>
-
-<picture>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=B.Tech+CSE+Student+%F0%9F%8E%93%3BAI%2FML+Enthusiast+%F0%9F%A7%A0%3BNLP+Developer+%F0%9F%92%AC%3BAspiring+Software+Engineer+%F0%9F%9A%80%3BPython+Developer+%F0%9F%90%8D" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=B.Tech+CSE+Student+%F0%9F%8E%93%3BAI%2FML+Enthusiast+%F0%9F%A7%A0%3BNLP+Developer+%F0%9F%92%AC%3BAspiring+Software+Engineer+%F0%9F%9A%80%3BPython+Developer+%F0%9F%90%8D" alt="Typing Animation">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
@@ -112,31 +109,20 @@ class SalapuVijay:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SalapuVijay&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&stroke=00D9FF&sideNums=00D9FF&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight" alt="Vijay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalapuVijay&theme=tokyonight" alt="Vijay's Top Languages" width="48%" />
+</p>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalapuVijay&theme=radical" alt="Profile Summary" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalapuVijay&theme=radical" alt="Repos Per Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalapuVijay&theme=radical" alt="Most Commit Language" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalapuVijay&theme=radical" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalapuVijay&theme=radical&utcOffset=5.5" alt="Productive Time" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SalapuVijay&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalapuVijay&theme=tokyonight" alt="Vijay's Streak Stats" />
+</p>
 
 </div>
 
 ---
 
-## 📈 Contribution Heatmap & Activity
+## 📈 Contribution Heatmap & Activity Graph
 
 <div align="center">
 
