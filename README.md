@@ -1,160 +1,192 @@
-# 🌌 Hi there! I'm Salapu Vijay 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalapuVijay&color=bf5af2&style=for-the-badge&label=PROFILE+VIEWS+👁️" alt="Profile Views" />
-</p>
+# 👨‍💻 Salapu Vijay
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=bf5af2&center=true&vCenter=true&width=750&lines=🤖+AI%2FML+Enthusiast%3B💬+NLP+Developer%3B🛸+Aspiring+Software+Engineer%3B🐍+Python+Developer" alt="Typing SVG" />
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI/ML%20Enthusiast&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20NLP%20%26%20Software%20Systems%20🤖&descAlignY=55&descSize=20">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AI/ML%20Enthusiast&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Intelligent%20NLP%20%26%20Software%20Systems%20🤖&descAlignY=55&descSize=20">
+</picture>
 
-<p align="center">
-  <strong>🔥 B.Tech Computer Science Student | AI/ML Enthusiast | NLP & Data Specialist 🔥</strong>
-</p>
+<picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=B.Tech+CSE+Student+%F0%9F%8E%93%3BAI%2FML+Enthusiast+%F0%9F%A7%A0%3BNLP+Developer+%F0%9F%92%AC%3BAspiring+Software+Engineer+%F0%9F%9A%80%3BPython+Developer+%F0%9F%90%8D" alt="Typing Animation">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=SalapuVijay&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SalapuVijay)
+[![GitHub followers](https://img.shields.io/github/followers/SalapuVijay?logo=github&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/slvvijay03/)
+[![Repos Badge](https://badges.pufler.dev/repos/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay?tab=repositories)
+[![Years Badge](https://badges.pufler.dev/years/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
+
+</div>
 
 ---
 
-### 🏆 My GitHub Game Trophies
+## 🚀 About Me
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SalapuVijay&theme=tokyonight&margin-w=10&margin-h=10&no-bg=false&no-frame=false&column=7" alt="Vijay's Trophies" />
-  </a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 About Me</h3>
-      <p>
-        I am a B.Tech Computer Science and Engineering student from <strong>India</strong> 🇮🇳 with a deep passion for Artificial Intelligence, Machine Learning, and Software Engineering. I love building intelligent NLP models, solving complex algorithmic challenges, and engineering high-impact, full-stack applications.
-      </p>
-      <p>
-        My goal is to bridge the gap between advanced AI models and production-ready software systems to create seamless, value-driven solutions.
-      </p>
-      <pre lang="python">
+```python
 class SalapuVijay:
     def __init__(self):
-        self.name = "Salapu Lakshmi Venkata Vijay 🌟"
-        self.role = "B.Tech CSE Student & AI/ML Enthusiast 🤖"
+        self.name = "Salapu Lakshmi Venkata Vijay"
+        self.role = "B.Tech Computer Science Student & AI/ML Enthusiast"
         self.location = "India 🇮🇳"
-        self.passion = "Solving Real World Problems with AI 💡"
-        self.stack = ["Python 🐍", "C++ 🛸", "AI/ML 🧠", "NLP 💬"]
-        
-    def current_mission(self):
+        self.languages = ["Python", "C++", "C", "Java", "SQL"]
+        self.interests = ["AI/ML", "NLP", "Data Structures", "SDE"]
+    
+    def current_work(self):
         return {
-            "building": "NLP pipelines and full-stack AI integrations 🚀",
-            "learning": "Deep Learning, System Design, and MLOps 📚",
-            "collaborating": "AI/ML Open Source & Hackathons 🤝"
+            "🎯 focus": "Building NLP & AI-Integrated projects using Python",
+            "📚 learning": "Deep Learning, System Design & MLOps",
+            "🤝 collaborating": "AI/ML Open Source & Python Development"
         }
-      </pre>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="./developer_illustration.png" width="360" style="border-radius: 20px; border: 3px solid #bf5af2; box-shadow: 0 0 25px rgba(191, 90, 242, 0.4);" alt="Developer Illustration" />
-    </td>
-  </tr>
-</table>
+    
+    def get_daily_routine(self):
+        return "📊 Analyze → 🤖 Model → 📈 Deploy → 🔄 Repeat"
+```
+
+<br clear="right"/>
 
 ---
 
-### 🎯 Skill Levels & Progress Meters 📈
+## 🔥 Current Focus
 
-* **Python & C++ Development** 🐍 🛸
-  `█████████████████░░░ 85%`
-* **Natural Language Processing (NLP)** 💬 🤖
-  `████████████████░░░░ 80%`
-* **Machine Learning & Deep Learning** 🧠 🧬
-  `██████████████░░░░░░ 70%`
-* **Data Structures & Algorithms (DSA)** 🌳 🔀
-  `████████████░░░░░░░░ 60%`
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Building **AI/ML projects using Python**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Learning **Data Structures and Algorithms**
 
-### 🛠️ Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Developing **NLP-based applications & AutoCorrect AI**
 
-<p align="center">
-  <strong>💻 Languages & Frameworks</strong><br><br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-<p align="center">
-  <strong>🤖 AI, Machine Learning & NLP</strong><br><br>
-  <img src="https://img.shields.io/badge/Google%20BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="BERT" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/nltk-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
-  <img src="https://img.shields.io/badge/textblob-E91E63?style=for-the-badge&logo=python&logoColor=white" alt="TextBlob" />
-</p>
-
-<p align="center">
-  <strong>🗄️ Databases & Data Storage</strong><br><br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-<p align="center">
-  <strong>⚙️ Tools & Platforms</strong><br><br>
-  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Improving **problem-solving and software development skills**
 
 ---
 
-### 🔥 Achievements & Highlights
+## 🛠️ Tech Stack
 
-* 🏆 **Finalist at INFOTSAV'25 Hackathon** organized by ABV-IIITM Gwalior.
-* 🤖 Built **AutoCorrect AI** using advanced NLP techniques and BERT transformers.
-* 📊 Developed multiple machine learning and data analytics projects optimizing accuracy and inference time.
-* 💡 Strong interest in designing robust backend systems and deploying scalable ML pipelines.
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="SQL" width="65" height="65" />
+
+### 🤖 AI, Machine Learning & NLP
+
+![BERT](https://img.shields.io/badge/Google%20BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-E91E63?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development & Databases
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Technologies
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="65" height="65">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="65" height="65">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Performance Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalapuVijay&show_icons=true&theme=tokyonight" alt="Vijay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalapuVijay&theme=tokyonight" alt="Vijay's Top Languages" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalapuVijay&theme=tokyonight" alt="Vijay's Streak Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SalapuVijay&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&stroke=00D9FF&sideNums=00D9FF&sideLabels=C9D1D9&dates=C9D1D9)](https://git.io/streak-stats)
 
----
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SalapuVijay&theme=radical" alt="Profile Summary" />
 
-### 💬 Daily Dev Humour 💻
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SalapuVijay&theme=radical" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SalapuVijay&theme=radical" alt="Most Commit Language" />
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bg_color=0b0f19&color=cbd5e1&border_color=312e81" alt="Developer Joke" />
-</p>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SalapuVijay&theme=radical" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SalapuVijay&theme=radical&utcOffset=5.5" alt="Productive Time" />
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/slvvijay03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/s.l.v_vijay" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:salapuvijay.visit2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  ✨ <em>"Analyzing data 📊, training models 🤖, and engineering clean, efficient code 💻."</em> ✨
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=SalapuVijay&theme=radical&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Heatmap & Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00D9FF/SalapuVijay" alt="GitHub Contribution Chart" width="90%" />
+
+[![Vijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SalapuVijay&custom_title=Vijay's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/SalapuVijay)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/slvvijay03/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/s.l.v_vijay">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/SalapuVijay">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:salapuvijay.visit2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 💡 Dev Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🗣️ "In God we trust. All others must bring data." - W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+
+**🌐 From [SalapuVijay](https://github.com/SalapuVijay) | Building Intelligent Systems 🚀**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
