@@ -5,7 +5,7 @@
 <img src="./banner.png" width="100%" alt="Salapu Lakshmi Venkata Vijay Banner" style="border-radius: 12px; border: 3px solid #bf5af2; box-shadow: 0 0 25px rgba(191, 90, 242, 0.4);" />
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=B.Tech+CSE+Student+%F0%9F%8E%93%3BAI%2FML+Enthusiast+%F0%9F%A7%A0%3BNLP+Developer+%F0%9F%92%AC%3BAspiring+Software+Engineer+%F0%9F%9A%80%3BPython+Developer+%F0%9F%90%8D" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&background=1a1b26&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=B.Tech+CSE+Student+%F0%9F%8E%93%3BAI%2FML+Enthusiast+%F0%9F%A7%A0%3BNLP+Developer+%F0%9F%92%AC%3BAspiring+Software+Engineer+%F0%9F%9A%80%3BPython+Developer+%F0%9F%90%8D" alt="Typing Animation">
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
@@ -97,7 +97,7 @@ class SalapuVijay:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
