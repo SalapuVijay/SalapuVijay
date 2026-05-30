@@ -10,12 +10,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SalapuVijay&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/SalapuVijay)
-[![GitHub followers](https://img.shields.io/github/followers/SalapuVijay?logo=github&style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/slvvijay03/)
-[![Repos Badge](https://badges.pufler.dev/repos/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay?tab=repositories)
+<!-- Vibrant, Colorful Top Badges Spectrum -->
+[![Profile Views](https://komarev.com/ghpvc/?username=SalapuVijay&label=Profile%20Views&color=bf5af2&style=for-the-badge)](https://github.com/SalapuVijay)
+[![GitHub followers](https://img.shields.io/github/followers/SalapuVijay?logo=github&style=for-the-badge&color=FF9500&labelColor=0D1117)](https://github.com/SalapuVijay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0D1117)](https://www.linkedin.com/in/slvvijay03/)
+[![Repos Badge](https://badges.pufler.dev/repos/SalapuVijay?style=for-the-badge&color=34C759&labelColor=0D1117)](https://github.com/SalapuVijay?tab=repositories)
 [![Years Badge](https://badges.pufler.dev/years/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/SalapuVijay?style=for-the-badge&color=00D9FF&labelColor=0D1117)](https://github.com/SalapuVijay)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/SalapuVijay?style=for-the-badge&color=FF3B30&labelColor=0D1117)](https://github.com/SalapuVijay)
 
 </div>
 
