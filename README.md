@@ -34,14 +34,14 @@ class SalapuVijay:
         self.name = "Salapu Lakshmi Venkata Vijay"
         self.role = "B.Tech Computer Science Student, AI/ML Enthusiast & Data Analyst"
         self.location = "India 🇮🇳"
-        self.languages = ["Python", "C++", "C", "Java", "SQL"]
-        self.interests = ["AI/ML", "NLP", "Data Analytics", "SDE"]
+        self.languages = ["Python", "TypeScript", "JavaScript", "C++", "C", "Java", "SQL"]
+        self.interests = ["AI/ML", "NLP", "Data Analytics", "SDE", "Multi-Agent Systems", "Quantitative Finance"]
     
     def current_work(self):
         return {
-            "🎯 focus": "Building NLP & AI-Integrated projects using Python",
-            "📚 learning": "Deep Learning, System Design & MLOps",
-            "🤝 collaborating": "AI/ML Open Source & Python Development"
+            "🎯 focus": "Developing Multi-Agent Investment Terminals & NLP pipelines",
+            "📚 learning": "Agentic Workflows, Distributed Systems & MLOps",
+            "🤝 collaborating": "LangGraph & Python Open Source AI Swarms"
         }
     
     def get_daily_routine(self):
@@ -70,13 +70,18 @@ class SalapuVijay:
 
 ### 👨‍💻 Programming Languages
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="SQL" width="65" height="65" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 AI, Machine Learning & NLP
 
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![BERT](https://img.shields.io/badge/Google%20BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -86,11 +91,20 @@ class SalapuVijay:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TextBlob](https://img.shields.io/badge/TextBlob-E91E63?style=for-the-badge&logo=python&logoColor=white)
+![FAISS / RAG](https://img.shields.io/badge/RAG%20%2F%20FAISS-FF4B4B?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 🌐 Web Development & Databases
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 📈 Data Visualization & BI Tools
 
@@ -104,6 +118,10 @@ class SalapuVijay:
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="65" height="65">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF007F?style=for-the-badge&logo=heart&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
